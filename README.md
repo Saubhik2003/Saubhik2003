@@ -25,6 +25,11 @@ I am a passionate **Cloud Computing and DevOps Engineer** with containerization,
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Saubhik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saubhik2003&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saubhik2003&layout=compact&theme=radical)
+
 ## 📫 Connect with Me
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saubhik2003/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saubhikmallick)  
