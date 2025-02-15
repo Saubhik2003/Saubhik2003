@@ -1,4 +1,3 @@
-![Saubhik Mallick Banner](https://via.placeholder.com/1200x400?text=Saubhik+Mallick)
 
 # 👋 Hi, I'm Saubhik Mallick
 
