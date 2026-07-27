@@ -65,8 +65,10 @@ I am a passionate **Cloud Computing and DevOps Engineer** with containerization,
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Saubhik2003&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+## 📊 GitHub Metrics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saubhik2003/Saubhik2003/main/github-metrics.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Saubhik2003/Saubhik2003/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ## 📫 Connect with Me
