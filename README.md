@@ -59,6 +59,10 @@ I am a passionate **Cloud Computing and DevOps Engineer** with containerization,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 📈 Contribution Activity
+
+[![Saubhik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saubhik2003&bg_color=0d1117&color=8b5cf6&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/Saubhik2003)
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Saubhik2003&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
