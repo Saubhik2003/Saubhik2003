@@ -60,9 +60,9 @@ I am a passionate **Cloud Computing and DevOps Engineer** with containerization,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![Saubhik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saubhik2003&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saubhik2003&layout=compact&theme=radical)
+![](https://github-readme-stats.shion.dev/api?username=Saubhik2003&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Saubhik2003&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saubhik2003&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📫 Connect with Me
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saubhik2003/)
