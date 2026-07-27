@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Saubhik Mallick
 
 🚀 **Cloud Computing | DevOps | Web Development**  
-🎓 **B.Tech, UPES Dehradun **  
+🎓 **B.Tech, UPES Dehradun**  
 📧 **[saubhikmallick@gmail.com](mailto:saubhikmallick@gmail.com)**  
 
 ## 🔹 About Me
