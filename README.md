@@ -62,7 +62,7 @@ I am a passionate **Cloud Computing and DevOps Engineer** with containerization,
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Saubhik2003&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saubhik2003&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saubhik2003&theme=aura&hide_border=true&layout=donut&langs_count=8&hide=html,css)
 
 ## 📫 Connect with Me
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saubhik2003/)
