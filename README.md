@@ -2,12 +2,12 @@
 # 👋 Hi, I'm Saubhik Mallick
 
 🚀 **Cloud Computing | DevOps | Web Development**  
-🎓 **B.Tech, UPES Dehradun (Final Year)**  
+🎓 **B.Tech, UPES Dehradun **  
 📧 **[saubhikmallick@gmail.com](mailto:saubhikmallick@gmail.com)**  
 
 ## 🔹 About Me
 I am a passionate **Cloud Computing and DevOps Engineer** with containerization, automation, and web development expertise. I specialize in deploying scalable applications and working with modern DevOps tools. My interests span across:
-- **Cloud Computing & DevOps**: Docker, Kubernetes (basics), Terraform.
+- **Cloud Computing & DevOps**: Docker, Kubernetes (basics).
 - **Web Development**: MERN Stack (MongoDB, React, Node.js).
 - **Programming**: C, C++, Java, Python.
 
